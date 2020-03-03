@@ -1,0 +1,84 @@
+Pressione qualquer tecla para continuar. . . 
+Pressione qualquer tecla para continuar. . . 
+
+***** 2 - Formato Comumgem.
+
+GRASP solucao 1.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 2.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 3.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 4.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 5.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 6.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 7.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 8.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 9.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 10.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+Tempo de execucao da Solução Inicial: 1 ms<14<4<2<1>><3<7>>><9<8<5>>><13<11<10>><12<6>>>>
+
+Solucao Inicial !!!
+Ramos Desligados:  (6)  (7)  (15) 
+Perdas Ativas da Sol. Inicial: 10311.491787
+Perdas Reativas da Sol. Inicial: 12170.553207
+Media de fluxo de carga da solucao inicial: 5086.876803
+
+Perdas Ativas antes de piorar a solucao: 10311.491787
+Perdas Reativas antes de piorar a solucao: 12170.553207
+Break: 1 --- Media de fluxo: 5086.876803
+
+Ramos desligados:  (6)  (7)  (15) 
+
+Piorando a solucao.
+Break: 1 --- Pior Perda Ativa: 0.000000
+Break: 1 --- Perda Reativa: 0.000000
+Break: 1 --- Media de fluxo: 0.000000
+
+Ramos desligados:  (0)  (1)  (5)  (7)  (9) 
+
+ENTROU NO BREAK em bt_cont = 2
+
+Tempo de execucao da BT - Procedimento 1: 1 ms
+Tempo de execucao da BT - Procedimento 2: 6045 ms
+Tempo de execucao da BT: 6046 ms
+Perdas Ativas da Sol. Final: 0.000000
+Perdas Reativas da Sol. Final: 0.000000
+Break: 2 --- Media de fluxo: 0.000000
+Ramos deligados:  (0)  (1)  (5)  (7)  (9) 
+
+Partindo para PR!!!!!!
+Total de solucoes geradas no PR_1: 0!
+
+Tempo de execucao do PR: 1 ms
+Tempo de execucao TOTAL: 13792 ms
+Perdas Ativas da Sol. Final: 0.000000
+Perdas Reativas da Sol. Final: 0.000000
+Ramos Desligados:  (6)  (7)  (15) 

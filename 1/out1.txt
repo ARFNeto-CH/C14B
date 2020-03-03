@@ -1,0 +1,84 @@
+Pressione qualquer tecla para continuar. . . 
+Pressione qualquer tecla para continuar. . . 
+
+***** op 1 - Formato de Porcentagem.
+
+GRASP solucao 1.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 2.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 3.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 4.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 5.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 6.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 7.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 8.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 9.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+GRASP solucao 10.
+Ramos fechados: (6) (7) (15) 
+Media FC: 5086.876953
+
+Tempo de execucao da Solução Inicial: 3 ms<14<4<2<1>><3<7>>><9<8<5>>><13<11<10>><12<6>>>>
+
+Solucao Inicial !!!
+Ramos Desligados:  (6)  (7)  (15) 
+Perdas Ativas da Sol. Inicial: 466.126855
+Perdas Reativas da Sol. Inicial: 544.899469
+Media de fluxo de carga da solucao inicial: 5086.876803
+
+Perdas Ativas antes de piorar a solucao: 466.126855
+Perdas Reativas antes de piorar a solucao: 544.899469
+Break: 1 --- Media de fluxo: 5086.876803
+
+Ramos desligados:  (6)  (7)  (15) 
+
+Piorando a solucao.
+Break: 1 --- Pior Perda Ativa: 483.868923
+Break: 1 --- Perda Reativa: 563.196931
+Break: 1 --- Media de fluxo: 5043.224159
+
+Ramos desligados:  (6)  (13)  (15) 
+
+ENTROU NO BREAK em bt_cont = 3
+
+Tempo de execucao da BT - Procedimento 1: 1 ms
+Tempo de execucao da BT - Procedimento 2: 8 ms
+Tempo de execucao da BT: 9 ms
+Perdas Ativas da Sol. Final: 466.126855
+Perdas Reativas da Sol. Final: 544.899469
+Break: 3 --- Media de fluxo: 5086.876803
+Ramos deligados:  (6)  (7)  (15) 
+
+Partindo para PR!!!!!!
+Total de solucoes geradas no PR_1: 0!
+
+Tempo de execucao do PR: 1 ms
+Tempo de execucao TOTAL: 3149 ms
+Perdas Ativas da Sol. Final: 466.126855
+Perdas Reativas da Sol. Final: 544.899469
+Ramos Desligados:  (6)  (7)  (15) 
